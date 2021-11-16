@@ -1,0 +1,16 @@
+body{
+  background-color: #1F248C;
+  color: #A7AED9;
+}
+
+.col {
+  border: none;
+  outline: none;
+  background: none;
+}
+.things{
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 100px;
+  }
